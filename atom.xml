@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Butene&#39;s Blog</title>
+  
+  <subtitle>我们野蛮生长，直到无暇悲伤</subtitle>
+  <link href="http://butylene.github.io/atom.xml" rel="self"/>
+  
+  <link href="http://butylene.github.io/"/>
+  <updated>2021-02-04T03:25:55.730Z</updated>
+  <id>http://butylene.github.io/</id>
+  
+  <author>
+    <name>Butylene</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>novel</title>
+    <link href="http://butylene.github.io/novel/"/>
+    <id>http://butylene.github.io/novel/</id>
+    <published>2021-01-11T16:38:35.000Z</published>
+    <updated>2021-02-04T03:25:55.730Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;&lt;font color=&quot;6B6B83&quot;&gt;&lt;center&gt;书中横卧着整个过去的灵魂&lt;/center&gt;&lt;/font&gt;&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="清单" scheme="http://butylene.github.io/categories/%E6%B8%85%E5%8D%95/"/>
+    
+    
+    <category term="list" scheme="http://butylene.github.io/tags/list/"/>
+    
+    <category term="life" scheme="http://butylene.github.io/tags/life/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>anime</title>
+    <link href="http://butylene.github.io/anime/"/>
+    <id>http://butylene.github.io/anime/</id>
+    <published>2021-01-09T01:36:35.000Z</published>
+    <updated>2021-01-17T12:43:28.561Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;&lt;font color=&quot;6B6B83&quot;&gt;&lt;center&gt;邪王真眼は最高です！&lt;/center&gt;&lt;/font&gt;&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="清单" scheme="http://butylene.github.io/categories/%E6%B8%85%E5%8D%95/"/>
+    
+    
+    <category term="list" scheme="http://butylene.github.io/tags/list/"/>
+    
+    <category term="life" scheme="http://butylene.github.io/tags/life/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>movie</title>
+    <link href="http://butylene.github.io/movie/"/>
+    <id>http://butylene.github.io/movie/</id>
+    <published>2021-01-06T16:07:58.000Z</published>
+    <updated>2021-01-26T14:49:52.191Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;&lt;font color=&quot;6B6B83&quot;&gt;&lt;center&gt;现实往往比电影更荒诞&lt;/center&gt;&lt;/font&gt;&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="清单" scheme="http://butylene.github.io/categories/%E6%B8%85%E5%8D%95/"/>
+    
+    
+    <category term="list" scheme="http://butylene.github.io/tags/list/"/>
+    
+    <category term="life" scheme="http://butylene.github.io/tags/life/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>sky</title>
+    <link href="http://butylene.github.io/sky/"/>
+    <id>http://butylene.github.io/sky/</id>
+    <published>2020-09-27T12:33:19.000Z</published>
+    <updated>2021-01-12T06:34:13.821Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;/sky/1.jpg&quot;&gt;&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="记录" scheme="http://butylene.github.io/categories/%E8%AE%B0%E5%BD%95/"/>
+    
+    
+    <category term="life" scheme="http://butylene.github.io/tags/life/"/>
+    
+    <category term="Sky" scheme="http://butylene.github.io/tags/Sky/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>聪明的星</title>
+    <link href="http://butylene.github.io/star/"/>
+    <id>http://butylene.github.io/star/</id>
+    <published>2020-09-27T02:04:54.000Z</published>
+    <updated>2021-01-09T14:09:05.553Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;&lt;font color=&quot;6B6B83&quot;&gt;&lt;center&gt;聪明的星&lt;/center&gt;&lt;/font&gt;&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="白水" scheme="http://butylene.github.io/categories/%E7%99%BD%E6%B0%B4/"/>
+    
+    
+    <category term="Poem" scheme="http://butylene.github.io/tags/Poem/"/>
+    
+  </entry>
+  
+</feed>
