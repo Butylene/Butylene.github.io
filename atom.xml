@@ -6,7 +6,7 @@
   <link href="http://butylene.github.io/atom.xml" rel="self"/>
   
   <link href="http://butylene.github.io/"/>
-  <updated>2021-02-04T03:25:55.730Z</updated>
+  <updated>2021-02-07T07:26:00.812Z</updated>
   <id>http://butylene.github.io/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>hexo加密主题失效和上传失败的解决方法</title>
+    <link href="http://butylene.github.io/hexo%E5%8A%A0%E5%AF%86%E4%B8%BB%E9%A2%98%E5%A4%B1%E6%95%88%E5%92%8C%E4%B8%8A%E4%BC%A0%E5%A4%B1%E8%B4%A5%E7%9A%84%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95/"/>
+    <id>http://butylene.github.io/hexo%E5%8A%A0%E5%AF%86%E4%B8%BB%E9%A2%98%E5%A4%B1%E6%95%88%E5%92%8C%E4%B8%8A%E4%BC%A0%E5%A4%B1%E8%B4%A5%E7%9A%84%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95/</id>
+    <published>2021-02-07T07:00:57.000Z</published>
+    <updated>2021-02-07T07:26:00.812Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Please make sure you have the correct access rights&lt;br&gt;and the repository exists.&lt;br&gt;FATAL {&lt;br&gt;  err: Error: Spawn failed&lt;br&gt;      at</summary>
+        
+      
+    
+    
+    
+    
+    <category term="hexo" scheme="http://butylene.github.io/tags/hexo/"/>
+    
+    <category term="question" scheme="http://butylene.github.io/tags/question/"/>
+    
+  </entry>
   
   <entry>
     <title>novel</title>
