@@ -1,21 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>sky</title>
-    <url>/sky/</url>
-    <content><![CDATA[<p><img src="/sky/1.jpg"></p>
-<a id="more"></a>
-<p><img src="/sky/7.jpg"><br><img src="/sky/3.jpg"><br><img src="/sky/2.jpg"><br><img src="/sky/6.jpg"><br><img src="/sky/4.jpg"><br><img src="/sky/0.jpg"><br><img src="/sky/5.jpg"><br><img src="/sky/8.jpg"><br><img src="/sky/9.jpg"><br><img src="/sky/10.jpg"><br><img src="/sky/11.jpg"><br><img src="/sky/12.jpg"><br><img src="/sky/13.jpg"><br><img src="/sky/14.jpg"><br><img src="/sky/15.jpg"><br><img src="/sky/16.jpg"><br><img src="/sky/17.jpg"><br><img src="/sky/18.jpg"><br><img src="/sky/19.jpg"><br><img src="/sky/20.jpg"><br><img src="/sky/21.jpg"><br><img src="/sky/22.jpg"><br><img src="/sky/23.jpg"></p>
-]]></content>
-      <categories>
-        <category>记录</category>
-      </categories>
-      <tags>
-        <tag>life</tag>
-        <tag>Sky</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>hexo加密主题失效和上传失败的解决方法</title>
     <url>/hexo%E5%8A%A0%E5%AF%86%E4%B8%BB%E9%A2%98%E5%A4%B1%E6%95%88%E5%92%8C%E4%B8%8A%E4%BC%A0%E5%A4%B1%E8%B4%A5%E7%9A%84%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95/</url>
     <content><![CDATA[<p><font color="6B6B83"><center>结论：网络波动</center></font></p>
@@ -30,31 +15,18 @@
       </tags>
   </entry>
   <entry>
-    <title>novel</title>
-    <url>/novel/</url>
-    <content><![CDATA[<p><font color="6B6B83"><center>书中横卧着整个过去的灵魂</center></font></p>
+    <title>sky</title>
+    <url>/sky/</url>
+    <content><![CDATA[<p><img src="/sky/1.jpg"></p>
 <a id="more"></a>
-<ul>
-<li>《杀死一只知更鸟》</li>
-<li>《无比芜杂的心绪》</li>
-<li>《达芬奇密码》</li>
-<li>《夜的女采摘员》</li>
-<li>《平凡的世界》</li>
-<li>《肖申克的救赎》</li>
-<li>《狼图腾》</li>
-<li>《龙族》</li>
-<li>《象王泪》</li>
-<li>《皮皮鲁压缩人生7天》</li>
-<li>《基督山伯爵》</li>
-<li>《废柴狐阿桔》</li>
-</ul>
+<p><img src="/sky/7.jpg"><br><img src="/sky/3.jpg"><br><img src="/sky/2.jpg"><br><img src="/sky/6.jpg"><br><img src="/sky/4.jpg"><br><img src="/sky/0.jpg"><br><img src="/sky/5.jpg"><br><img src="/sky/8.jpg"><br><img src="/sky/9.jpg"><br><img src="/sky/10.jpg"><br><img src="/sky/11.jpg"><br><img src="/sky/12.jpg"><br><img src="/sky/13.jpg"><br><img src="/sky/14.jpg"><br><img src="/sky/15.jpg"><br><img src="/sky/16.jpg"><br><img src="/sky/17.jpg"><br><img src="/sky/18.jpg"><br><img src="/sky/19.jpg"><br><img src="/sky/20.jpg"><br><img src="/sky/21.jpg"><br><img src="/sky/22.jpg"><br><img src="/sky/23.jpg"></p>
 ]]></content>
       <categories>
-        <category>清单</category>
+        <category>记录</category>
       </categories>
       <tags>
-        <tag>list</tag>
         <tag>life</tag>
+        <tag>Sky</tag>
       </tags>
   </entry>
   <entry>
@@ -89,8 +61,8 @@
         <category>清单</category>
       </categories>
       <tags>
-        <tag>list</tag>
         <tag>life</tag>
+        <tag>list</tag>
       </tags>
   </entry>
   <entry>
@@ -152,8 +124,36 @@
         <category>清单</category>
       </categories>
       <tags>
-        <tag>list</tag>
         <tag>life</tag>
+        <tag>list</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>novel</title>
+    <url>/novel/</url>
+    <content><![CDATA[<p><font color="6B6B83"><center>书中横卧着整个过去的灵魂</center></font></p>
+<a id="more"></a>
+<ul>
+<li>《杀死一只知更鸟》</li>
+<li>《无比芜杂的心绪》</li>
+<li>《达芬奇密码》</li>
+<li>《夜的女采摘员》</li>
+<li>《平凡的世界》</li>
+<li>《肖申克的救赎》</li>
+<li>《狼图腾》</li>
+<li>《龙族》</li>
+<li>《象王泪》</li>
+<li>《皮皮鲁压缩人生7天》</li>
+<li>《基督山伯爵》</li>
+<li>《废柴狐阿桔》</li>
+</ul>
+]]></content>
+      <categories>
+        <category>清单</category>
+      </categories>
+      <tags>
+        <tag>life</tag>
+        <tag>list</tag>
       </tags>
   </entry>
   <entry>
