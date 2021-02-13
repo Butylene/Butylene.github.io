@@ -16,6 +16,29 @@
       </tags>
   </entry>
   <entry>
+    <title>一些游戏小号</title>
+    <url>/%E4%B8%80%E4%BA%9B%E6%B8%B8%E6%88%8F%E5%B0%8F%E5%8F%B7/</url>
+    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="令牌错误" data-whm="抱歉, 这个文章不能被校验, 不过您还是能看看解密后的内容.">
+  <script id="hbeData" type="hbeData" data-hmacdigest="39c799edcaff4b4fa1c8c7b6a1c9160099aac5b48cda5652567ffcd251f50e1d">5d54728aafd744dfa43a90e558fe6c0e257f538069797b954deaa1cb6865d7bcaf6ab5d0f032b7db8b9f6c62804863437e1b3194aa85ede938715dda69ed5c3b</script>
+  <div class="hbe hbe-content">
+    <div class="hbe hbe-input hbe-input-xray">
+      <input class="hbe hbe-input-field hbe-input-field-xray" type="password" id="hbePass">
+      <label class="hbe hbe-input-label hbe-input-label-xray" for="hbePass">
+        <span class="hbe hbe-input-label-content hbe-input-label-content-xray">此路不通</span>
+      </label>
+      <svg class="hbe hbe-graphic hbe-graphic-xray" width="300%" height="100%" viewBox="0 0 1200 60" preserveAspectRatio="none">
+        <path d="M0,56.5c0,0,298.666,0,399.333,0C448.336,56.5,513.994,46,597,46c77.327,0,135,10.5,200.999,10.5c95.996,0,402.001,0,402.001,0"></path>
+        <path d="M0,2.5c0,0,298.666,0,399.333,0C448.336,2.5,513.994,13,597,13c77.327,0,135-10.5,200.999-10.5c95.996,0,402.001,0,402.001,0"></path>
+      </svg>
+    </div>
+  </div>
+</div>
+<script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+      <tags>
+        <tag>me</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>hexo加密主题失效和上传失败的解决方法</title>
     <url>/hexo%E5%8A%A0%E5%AF%86%E4%B8%BB%E9%A2%98%E5%A4%B1%E6%95%88%E5%92%8C%E4%B8%8A%E4%BC%A0%E5%A4%B1%E8%B4%A5%E7%9A%84%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95/</url>
     <content><![CDATA[<p><font color="6B6B83"><center>结论：网络波动</center></font></p>
