@@ -6,7 +6,7 @@
   <link href="http://butylene.github.io/atom.xml" rel="self"/>
   
   <link href="http://butylene.github.io/"/>
-  <updated>2021-03-10T12:03:23.382Z</updated>
+  <updated>2021-03-18T12:20:59.689Z</updated>
   <id>http://butylene.github.io/</id>
   
   <author>
@@ -15,6 +15,60 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Game</title>
+    <link href="http://butylene.github.io/Game/"/>
+    <id>http://butylene.github.io/Game/</id>
+    <published>2021-03-18T12:04:28.000Z</published>
+    <updated>2021-03-18T12:20:59.689Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;双人成行&quot;&gt;&lt;a href=&quot;#双人成行&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="清单" scheme="http://butylene.github.io/categories/%E6%B8%85%E5%8D%95/"/>
+    
+    
+    <category term="life" scheme="http://butylene.github.io/tags/life/"/>
+    
+    <category term="list" scheme="http://butylene.github.io/tags/list/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>music</title>
+    <link href="http://butylene.github.io/music/"/>
+    <id>http://butylene.github.io/music/</id>
+    <published>2021-03-17T06:13:27.000Z</published>
+    <updated>2021-03-17T06:14:58.955Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Yellow&lt;br&gt;Fix</summary>
+        
+      
+    
+    
+    
+    <category term="清单" scheme="http://butylene.github.io/categories/%E6%B8%85%E5%8D%95/"/>
+    
+    
+    <category term="life" scheme="http://butylene.github.io/tags/life/"/>
+    
+    <category term="list" scheme="http://butylene.github.io/tags/list/"/>
+    
+  </entry>
   
   <entry>
     <title>mysql命令</title>
@@ -34,7 +88,7 @@
     <link href="http://butylene.github.io/%E8%B4%A6%E7%B0%BF/"/>
     <id>http://butylene.github.io/%E8%B4%A6%E7%B0%BF/</id>
     <published>2021-03-08T11:18:34.000Z</published>
-    <updated>2021-03-16T15:17:30.471Z</updated>
+    <updated>2021-03-25T02:11:09.107Z</updated>
     
     
     <summary type="html">&lt;center&gt; ♥ &lt;/center&gt;</summary>
@@ -51,7 +105,7 @@
     <link href="http://butylene.github.io/%E8%B4%A6%E5%8F%B7/"/>
     <id>http://butylene.github.io/%E8%B4%A6%E5%8F%B7/</id>
     <published>2021-02-13T02:42:27.000Z</published>
-    <updated>2021-03-06T06:50:48.536Z</updated>
+    <updated>2021-03-17T06:13:51.927Z</updated>
     
     
     <summary type="html">&lt;center&gt; ♥ &lt;/center&gt;</summary>
@@ -97,9 +151,9 @@
     <category term="清单" scheme="http://butylene.github.io/categories/%E6%B8%85%E5%8D%95/"/>
     
     
-    <category term="list" scheme="http://butylene.github.io/tags/list/"/>
-    
     <category term="life" scheme="http://butylene.github.io/tags/life/"/>
+    
+    <category term="list" scheme="http://butylene.github.io/tags/list/"/>
     
   </entry>
   
@@ -108,7 +162,7 @@
     <link href="http://butylene.github.io/anime/"/>
     <id>http://butylene.github.io/anime/</id>
     <published>2021-01-09T01:36:35.000Z</published>
-    <updated>2021-03-08T14:07:36.973Z</updated>
+    <updated>2021-03-18T07:33:43.191Z</updated>
     
     
     <summary type="html">&lt;p&gt;&lt;font color=&quot;6B6B83&quot;&gt;&lt;center&gt;邪王真眼は最高です！&lt;/center&gt;&lt;/font&gt;&lt;/p&gt;</summary>
@@ -118,9 +172,9 @@
     <category term="清单" scheme="http://butylene.github.io/categories/%E6%B8%85%E5%8D%95/"/>
     
     
-    <category term="list" scheme="http://butylene.github.io/tags/list/"/>
-    
     <category term="life" scheme="http://butylene.github.io/tags/life/"/>
+    
+    <category term="list" scheme="http://butylene.github.io/tags/list/"/>
     
   </entry>
   
@@ -129,7 +183,7 @@
     <link href="http://butylene.github.io/movie/"/>
     <id>http://butylene.github.io/movie/</id>
     <published>2021-01-06T16:07:58.000Z</published>
-    <updated>2021-03-06T07:28:59.317Z</updated>
+    <updated>2021-03-25T05:51:19.564Z</updated>
     
     
     <summary type="html">&lt;p&gt;&lt;font color=&quot;6B6B83&quot;&gt;&lt;center&gt;现实往往比电影更荒诞&lt;/center&gt;&lt;/font&gt;&lt;/p&gt;</summary>
@@ -139,9 +193,9 @@
     <category term="清单" scheme="http://butylene.github.io/categories/%E6%B8%85%E5%8D%95/"/>
     
     
-    <category term="list" scheme="http://butylene.github.io/tags/list/"/>
-    
     <category term="life" scheme="http://butylene.github.io/tags/life/"/>
+    
+    <category term="list" scheme="http://butylene.github.io/tags/list/"/>
     
   </entry>
   
