@@ -6,7 +6,7 @@
   <link href="http://butylene.github.io/atom.xml" rel="self"/>
   
   <link href="http://butylene.github.io/"/>
-  <updated>2021-04-18T04:22:01.543Z</updated>
+  <updated>2021-04-18T05:13:05.245Z</updated>
   <id>http://butylene.github.io/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>APP</title>
+    <link href="http://butylene.github.io/APP/"/>
+    <id>http://butylene.github.io/APP/</id>
+    <published>2021-04-18T04:25:10.000Z</published>
+    <updated>2021-04-18T05:13:05.245Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;&lt;font color=&quot;6B6B83&quot;&gt;&lt;center&gt;口袋里的生活&lt;/center&gt;&lt;/font&gt;&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="清单" scheme="http://butylene.github.io/categories/%E6%B8%85%E5%8D%95/"/>
+    
+    
+    <category term="life" scheme="http://butylene.github.io/tags/life/"/>
+    
+    <category term="list" scheme="http://butylene.github.io/tags/list/"/>
+    
+  </entry>
   
   <entry>
     <title>Game</title>
@@ -59,15 +80,29 @@
   </entry>
   
   <entry>
-    <title>mysql命令</title>
+    <title>Mysql命令</title>
     <link href="http://butylene.github.io/mysql%E5%91%BD%E4%BB%A4/"/>
     <id>http://butylene.github.io/mysql%E5%91%BD%E4%BB%A4/</id>
     <published>2021-03-10T12:03:23.000Z</published>
-    <updated>2021-03-10T12:03:23.382Z</updated>
+    <updated>2021-04-18T04:35:18.715Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;font color=&quot;6B6B83&quot;&gt;&lt;center&gt;Mysql命令从连接到建表&lt;/center&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;转自&lt;a</summary>
+        
+      
     
     
     
+    <category term="清单" scheme="http://butylene.github.io/categories/%E6%B8%85%E5%8D%95/"/>
     
+    
+    <category term="Mysql" scheme="http://butylene.github.io/tags/Mysql/"/>
     
   </entry>
   
