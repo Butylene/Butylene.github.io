@@ -6,7 +6,7 @@
   <link href="http://butylene.github.io/atom.xml" rel="self"/>
   
   <link href="http://butylene.github.io/"/>
-  <updated>2021-09-12T07:12:01.029Z</updated>
+  <updated>2021-10-06T01:35:31.579Z</updated>
   <id>http://butylene.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://butylene.github.io/%E7%AB%99%E7%82%B9/"/>
     <id>http://butylene.github.io/%E7%AB%99%E7%82%B9/</id>
     <published>2021-09-01T14:58:49.000Z</published>
-    <updated>2021-09-12T07:12:01.029Z</updated>
+    <updated>2021-10-06T01:35:31.579Z</updated>
     
     
     <summary type="html">&lt;p&gt;&lt;font color=&quot;6B6B83&quot;&gt;&lt;center&gt;程序员的浪漫就是Ctrl+C+V&lt;/center&gt;&lt;/font&gt;&lt;/p&gt;</summary>
@@ -52,9 +52,9 @@
     <category term="清单" scheme="http://butylene.github.io/categories/%E6%B8%85%E5%8D%95/"/>
     
     
-    <category term="list" scheme="http://butylene.github.io/tags/list/"/>
-    
     <category term="life" scheme="http://butylene.github.io/tags/life/"/>
+    
+    <category term="list" scheme="http://butylene.github.io/tags/list/"/>
     
   </entry>
   
@@ -73,9 +73,9 @@
     <category term="清单" scheme="http://butylene.github.io/categories/%E6%B8%85%E5%8D%95/"/>
     
     
-    <category term="list" scheme="http://butylene.github.io/tags/list/"/>
-    
     <category term="life" scheme="http://butylene.github.io/tags/life/"/>
+    
+    <category term="list" scheme="http://butylene.github.io/tags/list/"/>
     
   </entry>
   
@@ -94,9 +94,9 @@
     <category term="清单" scheme="http://butylene.github.io/categories/%E6%B8%85%E5%8D%95/"/>
     
     
-    <category term="list" scheme="http://butylene.github.io/tags/list/"/>
-    
     <category term="life" scheme="http://butylene.github.io/tags/life/"/>
+    
+    <category term="list" scheme="http://butylene.github.io/tags/list/"/>
     
   </entry>
   
@@ -124,7 +124,7 @@
     <link href="http://butylene.github.io/%E8%B4%A6%E5%8F%B7/"/>
     <id>http://butylene.github.io/%E8%B4%A6%E5%8F%B7/</id>
     <published>2021-02-13T02:42:27.000Z</published>
-    <updated>2021-09-04T01:16:42.391Z</updated>
+    <updated>2021-10-01T18:46:20.609Z</updated>
     
     
     <summary type="html">&lt;center&gt; ♥ &lt;/center&gt;</summary>
@@ -170,9 +170,9 @@
     <category term="清单" scheme="http://butylene.github.io/categories/%E6%B8%85%E5%8D%95/"/>
     
     
-    <category term="list" scheme="http://butylene.github.io/tags/list/"/>
-    
     <category term="life" scheme="http://butylene.github.io/tags/life/"/>
+    
+    <category term="list" scheme="http://butylene.github.io/tags/list/"/>
     
   </entry>
   
@@ -181,7 +181,7 @@
     <link href="http://butylene.github.io/anime/"/>
     <id>http://butylene.github.io/anime/</id>
     <published>2021-01-09T01:36:35.000Z</published>
-    <updated>2021-09-01T14:46:48.922Z</updated>
+    <updated>2021-09-25T03:19:16.321Z</updated>
     
     
     <summary type="html">&lt;p&gt;&lt;font color=&quot;6B6B83&quot;&gt;&lt;center&gt;邪王真眼は最高です！&lt;/center&gt;&lt;/font&gt;&lt;/p&gt;</summary>
@@ -191,9 +191,9 @@
     <category term="清单" scheme="http://butylene.github.io/categories/%E6%B8%85%E5%8D%95/"/>
     
     
-    <category term="list" scheme="http://butylene.github.io/tags/list/"/>
-    
     <category term="life" scheme="http://butylene.github.io/tags/life/"/>
+    
+    <category term="list" scheme="http://butylene.github.io/tags/list/"/>
     
   </entry>
   
@@ -202,7 +202,7 @@
     <link href="http://butylene.github.io/movie/"/>
     <id>http://butylene.github.io/movie/</id>
     <published>2021-01-06T16:07:58.000Z</published>
-    <updated>2021-09-01T14:51:42.456Z</updated>
+    <updated>2021-09-30T12:02:54.780Z</updated>
     
     
     <summary type="html">&lt;p&gt;&lt;font color=&quot;6B6B83&quot;&gt;&lt;center&gt;现实往往比电影更荒诞&lt;/center&gt;&lt;/font&gt;&lt;/p&gt;</summary>
@@ -212,9 +212,9 @@
     <category term="清单" scheme="http://butylene.github.io/categories/%E6%B8%85%E5%8D%95/"/>
     
     
-    <category term="list" scheme="http://butylene.github.io/tags/list/"/>
-    
     <category term="life" scheme="http://butylene.github.io/tags/life/"/>
+    
+    <category term="list" scheme="http://butylene.github.io/tags/list/"/>
     
   </entry>
   
